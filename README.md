@@ -11,4 +11,4 @@ Create a map using leaflet that does the following:
 
 ## Earthquake Map Visualisation
 Link: https://amarah010.github.io/Leaflet-Challenge/
-
+C:\Users\ammar\OneDrive\Documents\Bootcamp\Leaflet-Challenge\Images\2-BasicMap.png
