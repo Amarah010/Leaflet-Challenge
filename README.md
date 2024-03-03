@@ -10,5 +10,5 @@ Create a map using leaflet that does the following:
 - Has a legend that will provide context for your map data.
 
 ## Earthquake Map Visualisation
-- Link here
-- Screenshot of map here
+Link: https://amarah010.github.io/Leaflet-Challenge/
+
