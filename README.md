@@ -1,6 +1,7 @@
 # Leaflet Challenge
 ## Earthquake Map Visualisation
 Link: https://amarah010.github.io/Leaflet-Challenge/
+
 ![2-BasicMap](https://github.com/Amarah010/Leaflet-Challenge/assets/147536136/461a841d-b435-475a-a7f1-add07806fdfe)
 
 ## Background
